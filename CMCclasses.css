@@ -1,0 +1,60 @@
+.circlemenubox {
+ margin: 20px;
+
+}
+
+
+
+.circlemenuitem{
+    border-radius: 50%;
+    border-color: black;
+    width: 100px;
+    height: 46px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.circlemenutext{
+    font-size: 12px;
+    font-weight: 200;
+    padding: 20px;
+}
+
+.mainpagegradient{
+    color: white;
+    width: 100%;
+    height: 100px;
+    background-color: 
+    background: -moz-linear-gradient(90deg, rgba(3,139,179,1) 0%, rgba(74,45,125,1) 100%); /* ff3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(74,45,125,1)), color-stop(100%, rgba(3,139,179,1))); /* safari4+,chrome */
+    background: -webkit-linear-gradient(90deg, rgba(3,139,179,1) 0%, rgba(74,45,125,1) 100%); /* safari5.1+,chrome10+ */
+    background: -o-linear-gradient(90deg, rgba(3,139,179,1) 0%, rgba(74,45,125,1) 100%); /* opera 11.10+ */
+    background: -ms-linear-gradient(90deg, rgba(3,139,179,1) 0%, rgba(74,45,125,1) 100%); /* ie10+ */
+    background: linear-gradient(0deg, rgba(3,139,179,1) 0%, rgba(74,45,125,1) 100%); /* w3c */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4A2D7D', endColorstr='#038BB3',GradientType=0 ); /* ie6-9 */    
+}
+
+
+
+.singlepagegradient{
+    color: white;
+    background-color: 
+    background: -moz-linear-gradient(90deg, rgba(3,139,179,1) 0%, rgba(74,45,125,1) 100%); /* ff3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(74,45,125,1)), color-stop(100%, rgba(3,139,179,1))); /* safari4+,chrome */
+    background: -webkit-linear-gradient(90deg, rgba(3,139,179,1) 0%, rgba(74,45,125,1) 100%); /* safari5.1+,chrome10+ */
+    background: -o-linear-gradient(90deg, rgba(3,139,179,1) 0%, rgba(74,45,125,1) 100%); /* opera 11.10+ */
+    background: -ms-linear-gradient(90deg, rgba(3,139,179,1) 0%, rgba(74,45,125,1) 100%); /* ie10+ */
+    background: linear-gradient(0deg, rgba(3,139,179,1) 0%, rgba(74,45,125,1) 100%); /* w3c */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4A2D7D', endColorstr='#038BB3',GradientType=0 ); /* ie6-9 */    
+}
+
+Subpage_section1_singlepage
+
+<div class="containerempty"></div>
+
+
+<div class="singlepagegradient">
+<h1>Process Validation</h1>
+<h2>From cell line development to commercial manufacturing, your priorities matter to us</h2>
+<p>We are dedicated to meeting the needs of each and every customer. Our complete and integrated suite of capabilities allows us to develop customized solutions that make your project a success.</p>
+</div>
